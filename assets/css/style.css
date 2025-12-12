@@ -2938,7 +2938,7 @@ img.w-100 {
 
 /* Section 4: Enhanced Timeline */
  .timeline {
-  background-image: url(/assets/images/bgtimeline.webp);
+  background-image: url(/assets/images/bgtimeline.png);
   background-color: #e6e6e6;
   background-position: center center;
   background-size: cover;
@@ -2951,7 +2951,7 @@ img.w-100 {
 
 /* Section 4: Enhanced Timeline */
  .timeline {
-  background-image :url(/assets/images/bgtimeline.webp) ;
+  background-image :url(/assets/images/bgtimeline.png) ;
   background-color: #e6e6e6;
   width: 100%;
      padding: 100px 0;
@@ -3270,3 +3270,4 @@ img.w-100 {
         padding: 5px 12px;
     }
 }
+
