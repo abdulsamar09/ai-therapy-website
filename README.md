@@ -1,16 +1,16 @@
-# Zara Therapy Clinic Website
+# Ai Therapy Website
 
 ## Introduction
 
-Welcome to the Zara Therapy Clinic website project! This README provides an overview of our development process and the features of our fully responsive website.
+Welcome to the Ai  Therapy Clinic website project! This README provides an overview of our development process and the features of our fully responsive website.
 
 ## Objectives
 
-Our goal is to create a professional website for Zara Therapy Clinic that showcases our services and attracts new clients. The website will be visually appealing, user-friendly, and optimized for all devices.
+Our goal is to create a professional website for Ai  Therapy Clinic that showcases our services and attracts new clients. The website will be visually appealing, user-friendly, and optimized for all devices.
 
 ## Problem Statement
 
-Zara Therapy Clinic needs a website to effectively communicate its services and attract potential clients. The website should include sections for therapy descriptions, therapist profiles, contact information, and testimonials.
+Ai  Therapy Clinic needs a website to effectively communicate its services and attract potential clients. The website should include sections for therapy descriptions, therapist profiles, contact information, and testimonials.
 
 ## Technologies Used
 
@@ -40,10 +40,10 @@ Zara Therapy Clinic needs a website to effectively communicate its services and 
 
 ## Project View
 
-Check out the live version of the website [here](https://zaratheraphy.netlify.app/)!
+Check out the live version of the website [here](https://Ai theraphy.netlify.app/)!
 
 ## Conclusion
 
-The Zara Therapy Clinic website will be a comprehensive platform for showcasing our services and attracting new clients. By implementing the features mentioned above, the website will provide a user-friendly experience and help expand our online presence.
+The Ai  Therapy Clinic website will be a comprehensive platform for showcasing our services and attracting new clients. By implementing the features mentioned above, the website will provide a user-friendly experience and help expand our online presence.
 
 
